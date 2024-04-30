@@ -1,4 +1,4 @@
-# top-ten-news-app
+# Top ten news
 ## "For practicing API fetching"
 
 https://yiming-liao.github.io/works/news-app/
